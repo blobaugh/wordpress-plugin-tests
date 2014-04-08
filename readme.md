@@ -47,7 +47,7 @@ Configuring Travis CI
 ---------------------
 
 Using Travis CI to run your unit tests absolutely requires that your plugin
-is maintained on GitHub in a public repository. This will not work otherwise.
+is maintained on GitHub repository. This will not work otherwise.
 
 1. [Activate Travis CI](http://travis-ci.org/profile) for your plugin.
 2. The first test run needs to be triggered by a push to your plugin's GitHub
